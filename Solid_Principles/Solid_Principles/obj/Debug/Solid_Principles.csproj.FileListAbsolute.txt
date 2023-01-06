@@ -1,0 +1,8 @@
+C:\Users\abh\Desktop\Learning\Solid_Principles\Solid_Principles\bin\Debug\Solid_Principles.exe.config
+C:\Users\abh\Desktop\Learning\Solid_Principles\Solid_Principles\bin\Debug\Solid_Principles.exe
+C:\Users\abh\Desktop\Learning\Solid_Principles\Solid_Principles\bin\Debug\Solid_Principles.pdb
+C:\Users\abh\Desktop\Learning\Solid_Principles\Solid_Principles\obj\Debug\Solid_Principles.csproj.AssemblyReference.cache
+C:\Users\abh\Desktop\Learning\Solid_Principles\Solid_Principles\obj\Debug\Solid_Principles.csproj.SuggestedBindingRedirects.cache
+C:\Users\abh\Desktop\Learning\Solid_Principles\Solid_Principles\obj\Debug\Solid_Principles.csproj.CoreCompileInputs.cache
+C:\Users\abh\Desktop\Learning\Solid_Principles\Solid_Principles\obj\Debug\Solid_Principles.exe
+C:\Users\abh\Desktop\Learning\Solid_Principles\Solid_Principles\obj\Debug\Solid_Principles.pdb

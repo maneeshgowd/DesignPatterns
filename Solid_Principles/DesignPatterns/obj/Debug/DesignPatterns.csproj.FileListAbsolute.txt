@@ -1,0 +1,10 @@
+C:\Users\abh\Desktop\Learning\Solid_Principles\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\abh\Desktop\Learning\Solid_Principles\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\abh\Desktop\Learning\Solid_Principles\DesignPatterns\obj\Debug\DesignPatterns.csproj.AssemblyReference.cache
+C:\Users\abh\Desktop\Learning\Solid_Principles\DesignPatterns\obj\Debug\DesignPatterns.csproj.SuggestedBindingRedirects.cache
+C:\Users\abh\Desktop\Learning\Solid_Principles\DesignPatterns\obj\Debug\DesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\abh\Desktop\Learning\Solid_Principles\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\abh\Desktop\Learning\Solid_Principles\DesignPatterns\obj\Debug\DesignPatterns.pdb
+C:\Users\abh\Desktop\Learning\Solid_Principles\DesignPatterns\bin\Debug\Newtonsoft.Json.dll
+C:\Users\abh\Desktop\Learning\Solid_Principles\DesignPatterns\bin\Debug\Newtonsoft.Json.xml
+C:\Users\abh\Desktop\Learning\Solid_Principles\DesignPatterns\obj\Debug\DesignPatterns.csproj.CopyComplete
