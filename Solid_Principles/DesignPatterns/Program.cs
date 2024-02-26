@@ -14,8 +14,9 @@ namespace DesignPatterns
 
         // 1. Creations - Deals with Object creation and Initialization
 
-        // 2. Structural - Deals with Class and Object Composition
+        // 2. Structural - Deals with Class and Object Composition and how they are designed
         // Mainly on Decoupling Interface and implementation of Classes and its Objects.
+        // How inheritance and composition can be used to provide extra functionality
 
         // 3. Behavioral - Deals with Communication between Classes and Objects.
         // Behavioral design patterns are concerned with the interaction and responsibility of objects.
